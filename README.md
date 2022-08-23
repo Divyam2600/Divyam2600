@@ -24,52 +24,79 @@ I am a versatilist and a fast learner. Currently, I am into Web Development buil
 ## 🔨 <u>Languages and Tools:</u>
 
 <table>
-  <tr>
-    <td align="center" width="96">
-        <img src="./Icons/Java.svg" width="48" height="48" alt="Java" /><br> JAVA
-    </td>
-    <td align="center" width="96">
-        <img src="./Icons/c++.svg" width="48" height="48" alt="C++" /><br> C++
-    </td>
-    <td align="center" width="96">
-        <img src="./Icons/Html.svg" width="48" height="48" alt="Html" /><br> HTML
-    </td>
-    <td align="center" width="96">
-        <img src="./Icons/Css.svg" width="48" height="48" alt="Css" /><br> CSS
-    </td>
-    <td align="center" width="96">
-        <img src="./Icons/Javascript.svg" width="48" height="48" alt="JavaScript" /><br> JAVASCRIPT
-    </td>
-    <td align="center" width="96">
-        <img src="./Icons/React.svg" width="48" height="48" alt="ReactJs" /><br> REACT
-    </td>
-    <td align="center" width="96">
-        <img src="./Icons/Nextjs.svg" width="48" height="48" alt="NextJs" /><br> NEXTJS
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-        <img src="./Icons/Python.svg" width="48" height="48" alt="Python" /><br> PYTHON
-    </td>
-    <td align="center" width="96">
-        <img src="./Icons/Bootstrap.svg" width="48" height="48" alt="Bootstrap" /><br> BOOTSTRAP
-    </td>
-    <td align="center" width="96">
-        <img src="./Icons/Tailwind.svg" width="48" height="48" alt="Tailwind" /><br> TAILWIND
-    </td>
-    <td align="center" width="96">
-        <img src="./Icons/Firebase.svg" width="48" height="48" alt="Firebase" /><br> FIREBASE
-    </td>
-    <td align="center" width="96">
-        <img src="./Icons/Redux.svg" width="48" height="48" alt="Redux" /><br> REDUX
-    </td>
-    <td align="center" width="96">
-        <img src="./Icons/Stripe.svg" width="48" height="48" alt="Stripe" /><br> STRIPE
-    </td>
-    <td align="center" width="96">
-        <img src="./Icons/Powershell.svg" width="48" height="48" alt="Powershell" /><br> POWERSHELL
-    </td>
-  </tr>
+   <tr>
+      <td align="center" width="96">
+         <a href="https://docs.oracle.com/javase/tutorial/" style="color:white">
+         <img src="./Icons/Java.svg" width="48" height="48" alt="Java" /><br> JAVA
+         </a>
+      </td>
+      <td align="center" width="96">
+         <a href="https://cplusplus.com/doc/tutorial/" style="color:white">
+         <img src="./Icons/c++.svg" width="48" height="48" alt="C++" /><br> C++
+         </a>
+      </td>
+      <td align="center" width="96">
+         <a href="https://devdocs.io/html/" style="color:white">
+         <img src="./Icons/Html.svg" width="48" height="48" alt="Html" /><br> HTML
+         </a>
+      </td>
+      <td align="center" width="96">
+         <a href="https://devdocs.io/css/" style="color:white">
+         <img src="./Icons/Css.svg" width="48" height="48" alt="Css" /><br> CSS
+         </a>
+      </td>
+      <td align="center" width="96">
+         <a href="https://javascript.info/" style="color:white">
+         <img src="./Icons/Javascript.svg" width="48" height="48" alt="JavaScript" /><br> JAVASCRIPT
+         </a>
+      </td>
+      <td align="center" width="96">
+         <a href="https://reactjs.org/" style="color:white">
+         <img src="./Icons/React.svg" width="48" height="48" alt="ReactJs" /><br> REACT
+         </a>
+      </td>
+      <td align="center" width="96">
+         <a href="https://nextjs.org/" style="color:white">
+         <img src="./Icons/Nextjs.svg" width="48" height="48" alt="NextJs" /><br> NEXTJS
+         </a>
+      </td>
+   </tr>
+   <tr>
+      <td align="center" width="96">
+         <a href="https://www.python.org/" style="color:white">
+         <img src="./Icons/Python.svg" width="48" height="48" alt="Python" /><br> PYTHON
+         </a>
+      </td>
+      <td align="center" width="96">
+         <a href="https://getbootstrap.com/" style="color:white">
+         <img src="./Icons/Bootstrap.svg" width="48" height="48" alt="Bootstrap" /><br> BOOTSTRAP
+         </a>
+      </td>
+      <td align="center" width="96">
+         <a href="https://tailwindcss.com/" style="color:white">
+         <img src="./Icons/Tailwind.svg" width="48" height="48" alt="Tailwind" /><br> TAILWIND
+         </a>
+      </td>
+      <td align="center" width="96">
+         <a href="https://firebase.google.com/" style="color:white">
+         <img src="./Icons/Firebase.svg" width="48" height="48" alt="Firebase" /><br> FIREBASE
+         </a>
+      </td>
+      <td align="center" width="96">
+         <a href="https://redux.js.org/" style="color:white">
+         <img src="./Icons/Redux.svg" width="48" height="48" alt="Redux" /><br> REDUX
+         </a>
+      </td>
+      <td align="center" width="96">
+         <a href="https://stripe.com/" style="color:white">
+         <img src="./Icons/Stripe.svg" width="48" height="48" alt="Stripe" /><br> STRIPE </a>
+      </td>
+      <td align="center" width="96">
+         <a href="https://docs.microsoft.com/en-us/powershell/" style="color:white">
+         <img src="./Icons/Powershell.svg" width="48" height="48" alt="Powershell" /><br> POWERSHELL
+         </a>
+      </td>
+   </tr>
 </table>
 
 <br>
@@ -82,6 +109,6 @@ I am a versatilist and a fast learner. Currently, I am into Web Development buil
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Divyam2600&card_width=495&border_radius=10)
 
-## <u>Show Your Support</u>
+## <u>❤️Show Your Support</u>
 
 ### Do Star My Repositories if you like them🌟.
