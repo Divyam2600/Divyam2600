@@ -11,13 +11,13 @@ I am a versatilist and a fast learner. Currently, I am into Web Development, bui
 
 ## 🧐 <u>More About Me:</u>
 
-- <img src="./Icons/Netflix.svg" alt="Netflix" height="20px" align="center"/> I’m currently working on **netflix-clone**.
-- <img src="./Icons/dsa.svg" alt="DSA" height="20px" align="center"/> I’m also currently learning Data Structures and Algorithms.
-- <img src="./Icons/Computer.svg" alt="Projects" height="20px" align="center"/> Most of my projects are available on [Github](https://github.com/Divyam2600?tab=repositories).
-- <img src="./Icons/Instagram.svg" alt="Instagram" height="20px" align="center"/> My over-powered build is the [insta-clone](https://github.com/Divyam2600/Instagram-2.0). Do check it out ✨!
-- <img src="./Icons/Message.svg" alt="Message" height="20px" align="center"/> I am happy to help you out so don't hesitate to approach me.
-- <img src="./Icons/LinkedIn.svg" alt="LinkedIn" height="20px" align="center"/> Feel free to connect with me on [LinkedIn](https://linkedin.com/in/divyam-agarwal-2600).
-- <img src="./Icons/Novels.svg" alt="Novels" height="20px" align="center"/> During my leisure, I like to read novels.
+- <img src="./Icons/Netflix.svg" alt="Netflix" height="20px" align="center"/>&nbsp; I&#39;m currently working on **netflix-clone**.
+- <img src="./Icons/dsa.svg" alt="DSA" height="20px" align="center"/>&nbsp; I&#39;m also currently learning Data Structures and Algorithms.
+- <img src="./Icons/Computer.svg" alt="Projects" height="20px" align="center"/>&nbsp; Most of my projects are available on [Github](https://github.com/Divyam2600?tab=repositories).
+- <img src="./Icons/Instagram.svg" alt="Instagram" height="20px" align="center"/>&nbsp; My over-powered build is the [insta-clone](https://github.com/Divyam2600/Instagram-2.0). Do check it out ✨!
+- <img src="./Icons/Message.svg" alt="Message" height="20px" align="center"/>&nbsp; I&#39;m happy to help you out so don't hesitate to approach me.
+- <img src="./Icons/LinkedIn.svg" alt="LinkedIn" height="20px" align="center"/>&nbsp; Feel free to connect with me on [LinkedIn](https://linkedin.com/in/divyam-agarwal-2600).
+- <img src="./Icons/Novels.svg" alt="Novels" height="20px" align="center"/>&nbsp; During my leisure, I like to read novels.
 
 <br>
 
