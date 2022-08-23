@@ -1,4 +1,4 @@
-# Hey There👋, I'm Divyam Agarwal
+# Hey There👋,<br> I'm Divyam Agarwal
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?label=%20&labelColor=0077B5&logo=Linkedin&logoColor=white)](https://linkedin.com/in/divyam-agarwal-2600)
 [![Twitter Badge](https://img.shields.io/badge/-Facebook-1877F2?label=%20&labelColor=1877F2&logo=Facebook&logoColor=white)](https://www.facebook.com/divyam2600/)
@@ -6,18 +6,18 @@
 [![Telegram Badge](https://img.shields.io/badge/Telegram-26A5E4?label=%20&labelColor=26A5E4&logo=Telegram&logoColor=white)](https://telegram.me/Divyam2600)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?label=%20&labelColor=1DA1F2&logo=Twitter&logoColor=white)](https://twitter.com/Divyam2600)
 
-I am a versatilist and a fast learner. Currently, I am into Web Development building clones. I love exploring new tech stack 💻 and leveraging them to build cool projects.
+I am a versatilist and a fast learner. Currently, I am into Web Development, building clones. I love exploring new Tech stack 💻 and leveraging them to build cool projects.
 <br/>
 
 ## 🧐 <u>More About Me:</u>
 
-- <img src="./Icons/Netflix.svg" alt="Netflix" height="20px" align="left"/> I’m currently working on **netflix-clone**.
-- <img src="./Icons/dsa.svg" alt="DSA" height="20px" align="left"/> I’m also currently learning Data Structures and Algorithms.
-- <img src="./Icons/Computer.svg" alt="Projects" height="20px" align="left"/> Most of my projects are available on [Github](https://github.com/Divyam2600?tab=repositories).
-- <img src="./Icons/Instagram.svg" alt="Instagram" height="20px" align="left"/> My over-powered build is the [insta-clone](https://github.com/Divyam2600/Instagram-2.0). Do check it out ✨!
-- <img src="./Icons/Message.svg" alt="Message" height="20px" align="left"/> I am happy to help you out so don't hesitate to approach me.
-- <img src="./Icons/LinkedIn.svg" alt="LinkedIn" height="20px" align="left"/> Feel free to connect with me on [LinkedIn](https://linkedin.com/in/divyam-agarwal-2600).
-- <img src="./Icons/Novels.svg" alt="Novels" height="20px" align="left"/> During my leisure, I like to read novels.
+- <img src="./Icons/Netflix.svg" alt="Netflix" height="20px" align="center"/> I’m currently working on **netflix-clone**.
+- <img src="./Icons/dsa.svg" alt="DSA" height="20px" align="center"/> I’m also currently learning Data Structures and Algorithms.
+- <img src="./Icons/Computer.svg" alt="Projects" height="20px" align="center"/> Most of my projects are available on [Github](https://github.com/Divyam2600?tab=repositories).
+- <img src="./Icons/Instagram.svg" alt="Instagram" height="20px" align="center"/> My over-powered build is the [insta-clone](https://github.com/Divyam2600/Instagram-2.0). Do check it out ✨!
+- <img src="./Icons/Message.svg" alt="Message" height="20px" align="center"/> I am happy to help you out so don't hesitate to approach me.
+- <img src="./Icons/LinkedIn.svg" alt="LinkedIn" height="20px" align="center"/> Feel free to connect with me on [LinkedIn](https://linkedin.com/in/divyam-agarwal-2600).
+- <img src="./Icons/Novels.svg" alt="Novels" height="20px" align="center"/> During my leisure, I like to read novels.
 
 <br>
 
