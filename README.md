@@ -1,4 +1,4 @@
-# Hey There👋, I'm Divyam Agarwal !!
+# Hey There👋, I'm Divyam Agarwal
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?label=%20&labelColor=0077B5&logo=Linkedin&logoColor=white)](https://linkedin.com/in/divyam-agarwal-2600)
 [![Twitter Badge](https://img.shields.io/badge/-Facebook-1877F2?label=%20&labelColor=1877F2&logo=Facebook&logoColor=white)](https://www.facebook.com/divyam2600/)
@@ -26,75 +26,76 @@ I am a versatilist and a fast learner. Currently, I am into Web Development buil
 <table>
    <tr>
       <td align="center" width="96">
-         <a href="https://docs.oracle.com/javase/tutorial/" style="color:white">
-         <img src="./Icons/Java.svg" width="48" height="48" alt="Java" /><br> JAVA
-         </a>
+         <a href="https://docs.oracle.com/javase/tutorial/">
+            <img src="./Icons/Java.svg" width="48" height="48" alt="Java" />
+         </a><br> JAVA
       </td>
       <td align="center" width="96">
-         <a href="https://cplusplus.com/doc/tutorial/" style="color:white">
-         <img src="./Icons/c++.svg" width="48" height="48" alt="C++" /><br> C++
-         </a>
+         <a href="https://cplusplus.com/doc/tutorial/">
+            <img src="./Icons/c++.svg" width="48" height="48" alt="C++" />
+         </a><br> C++
       </td>
       <td align="center" width="96">
-         <a href="https://devdocs.io/html/" style="color:white">
-         <img src="./Icons/Html.svg" width="48" height="48" alt="Html" /><br> HTML
-         </a>
+         <a href="https://devdocs.io/html/">
+            <img src="./Icons/Html.svg" width="48" height="48" alt="Html" />
+         </a><br> HTML
       </td>
       <td align="center" width="96">
-         <a href="https://devdocs.io/css/" style="color:white">
-         <img src="./Icons/Css.svg" width="48" height="48" alt="Css" /><br> CSS
-         </a>
+         <a href="https://devdocs.io/css/">
+            <img src="./Icons/Css.svg" width="48" height="48" alt="Css" />
+         </a><br> CSS
       </td>
       <td align="center" width="96">
-         <a href="https://javascript.info/" style="color:white">
-         <img src="./Icons/Javascript.svg" width="48" height="48" alt="JavaScript" /><br> JAVASCRIPT
-         </a>
+         <a href="https://javascript.info/">
+            <img src="./Icons/Javascript.svg" width="48" height="48" alt="JavaScript" />
+         </a><br> JAVASCRIPT
       </td>
       <td align="center" width="96">
-         <a href="https://reactjs.org/" style="color:white">
-         <img src="./Icons/React.svg" width="48" height="48" alt="ReactJs" /><br> REACT
-         </a>
+         <a href="https://reactjs.org/">
+            <img src="./Icons/React.svg" width="48" height="48" alt="ReactJs" />
+         </a><br> REACT
       </td>
       <td align="center" width="96">
-         <a href="https://nextjs.org/" style="color:white">
-         <img src="./Icons/Nextjs.svg" width="48" height="48" alt="NextJs" /><br> NEXTJS
-         </a>
+         <a href="https://nextjs.org/">
+            <img src="./Icons/Nextjs.svg" width="48" height="48" alt="NextJs" />
+         </a><br> NEXTJS
       </td>
    </tr>
    <tr>
       <td align="center" width="96">
-         <a href="https://www.python.org/" style="color:white">
-         <img src="./Icons/Python.svg" width="48" height="48" alt="Python" /><br> PYTHON
-         </a>
+         <a href="https://www.python.org/">
+            <img src="./Icons/Python.svg" width="48" height="48" alt="Python" />
+         </a><br> PYTHON
       </td>
       <td align="center" width="96">
-         <a href="https://getbootstrap.com/" style="color:white">
-         <img src="./Icons/Bootstrap.svg" width="48" height="48" alt="Bootstrap" /><br> BOOTSTRAP
-         </a>
+         <a href="https://getbootstrap.com/">
+            <img src="./Icons/Bootstrap.svg" width="48" height="48" alt="Bootstrap" />
+         </a><br> BOOTSTRAP
       </td>
       <td align="center" width="96">
-         <a href="https://tailwindcss.com/" style="color:white">
-         <img src="./Icons/Tailwind.svg" width="48" height="48" alt="Tailwind" /><br> TAILWIND
-         </a>
+         <a href="https://tailwindcss.com/">
+            <img src="./Icons/Tailwind.svg" width="48" height="48" alt="Tailwind" />
+         </a><br> TAILWIND
       </td>
       <td align="center" width="96">
-         <a href="https://firebase.google.com/" style="color:white">
-         <img src="./Icons/Firebase.svg" width="48" height="48" alt="Firebase" /><br> FIREBASE
-         </a>
+         <a href="https://firebase.google.com/">
+            <img src="./Icons/Firebase.svg" width="48" height="48" alt="Firebase" />
+         </a><br> FIREBASE
       </td>
       <td align="center" width="96">
-         <a href="https://redux.js.org/" style="color:white">
-         <img src="./Icons/Redux.svg" width="48" height="48" alt="Redux" /><br> REDUX
-         </a>
+         <a href="https://redux.js.org/">
+            <img src="./Icons/Redux.svg" width="48" height="48" alt="Redux" />
+         </a><br> REDUX
       </td>
       <td align="center" width="96">
-         <a href="https://stripe.com/" style="color:white">
-         <img src="./Icons/Stripe.svg" width="48" height="48" alt="Stripe" /><br> STRIPE </a>
+         <a href="https://stripe.com/">
+            <img src="./Icons/Stripe.svg" width="48" height="48" alt="Stripe" />
+         </a><br> STRIPE
       </td>
       <td align="center" width="96">
-         <a href="https://docs.microsoft.com/en-us/powershell/" style="color:white">
-         <img src="./Icons/Powershell.svg" width="48" height="48" alt="Powershell" /><br> POWERSHELL
-         </a>
+         <a href="https://docs.microsoft.com/en-us/powershell/">
+            <img src="./Icons/Powershell.svg" width="48" height="48" alt="Powershell" />
+         </a><br> POWERSHELL
       </td>
    </tr>
 </table>
@@ -111,4 +112,4 @@ I am a versatilist and a fast learner. Currently, I am into Web Development buil
 
 ## <u>❤️Show Your Support</u>
 
-### Do Star My Repositories if you like them🌟.
+### Do Star My Repositories if you like them🌟
