@@ -9,7 +9,7 @@
 I am a versatilist and a fast learner. Currently, I am into Web Development, building clones. I love exploring new Tech stack 💻 and leveraging them to build cool projects.
 <br/>
 
-## 🧐 <u>More About Me:</u>
+## 🧐 **More About Me:**
 
 - <img src="./Icons/Netflix.svg" alt="Netflix" height="20px" align="center"/>&nbsp; I&#39;m currently working on **netflix-clone**.
 - <img src="./Icons/dsa.svg" alt="DSA" height="20px" align="center"/>&nbsp; I&#39;m also currently learning Data Structures and Algorithms.
@@ -21,7 +21,7 @@ I am a versatilist and a fast learner. Currently, I am into Web Development, bui
 
 <br>
 
-## 🔨 <u>Languages and Tools:</u>
+## 🔨 **Languages and Tools:**
 
 <table>
    <tr>
@@ -102,7 +102,7 @@ I am a versatilist and a fast learner. Currently, I am into Web Development, bui
 
 <br>
 
-## 📊 <u>My Stats:</u>
+## 📊 **My Stats:**
 
 <br>
 
@@ -110,6 +110,6 @@ I am a versatilist and a fast learner. Currently, I am into Web Development, bui
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Divyam2600&card_width=495&border_radius=10)
 
-## <u>❤️Show Your Support</u>
+## &#10084; **Show Your Support**
 
 ### Do Star My Repositories if you like them🌟
