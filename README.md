@@ -1,4 +1,4 @@
-# Hey There👋,<br> I'm Divyam Agarwal
+# Hey There &#128075;,<br> **I'm Divyam Agarwal**
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?label=%20&labelColor=0077B5&logo=Linkedin&logoColor=white)](https://linkedin.com/in/divyam-agarwal-2600)
 [![Twitter Badge](https://img.shields.io/badge/-Facebook-1877F2?label=%20&labelColor=1877F2&logo=Facebook&logoColor=white)](https://www.facebook.com/divyam2600/)
@@ -6,22 +6,22 @@
 [![Telegram Badge](https://img.shields.io/badge/Telegram-26A5E4?label=%20&labelColor=26A5E4&logo=Telegram&logoColor=white)](https://telegram.me/Divyam2600)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?label=%20&labelColor=1DA1F2&logo=Twitter&logoColor=white)](https://twitter.com/Divyam2600)
 
-I am a versatilist and a fast learner. Currently, I am into Web Development, building clones. I love exploring new Tech stack 💻 and leveraging them to build cool projects.
+I am a versatilist and a fast learner. Currently, I am into Web Development, building clones. I love exploring new Tech stack &#128187; and leveraging them to build cool projects.
 <br/>
 
-## 🧐 **More About Me:**
+## &#129488; **More About Me:**
 
 - <img src="./Icons/Netflix.svg" alt="Netflix" height="20px" align="center"/>&nbsp; I&#39;m currently working on **netflix-clone**.
 - <img src="./Icons/dsa.svg" alt="DSA" height="20px" align="center"/>&nbsp; I&#39;m also currently learning Data Structures and Algorithms.
 - <img src="./Icons/Computer.svg" alt="Projects" height="20px" align="center"/>&nbsp; Most of my projects are available on [Github](https://github.com/Divyam2600?tab=repositories).
-- <img src="./Icons/Instagram.svg" alt="Instagram" height="20px" align="center"/>&nbsp; My over-powered build is the [insta-clone](https://github.com/Divyam2600/Instagram-2.0). Do check it out ✨!
+- <img src="./Icons/Instagram.svg" alt="Instagram" height="20px" align="center"/>&nbsp; My over-powered build is the [insta-clone](https://github.com/Divyam2600/Instagram-2.0). Do check it out &#10024;!
 - <img src="./Icons/Message.svg" alt="Message" height="20px" align="center"/>&nbsp; I&#39;m happy to help you out so don't hesitate to approach me.
 - <img src="./Icons/LinkedIn.svg" alt="LinkedIn" height="20px" align="center"/>&nbsp; Feel free to connect with me on [LinkedIn](https://linkedin.com/in/divyam-agarwal-2600).
 - <img src="./Icons/Novels.svg" alt="Novels" height="20px" align="center"/>&nbsp; During my leisure, I like to read novels.
 
 <br>
 
-## 🔨 **Languages and Tools:**
+## &#128296; **Languages and Tools:**
 
 <table>
    <tr>
@@ -102,7 +102,7 @@ I am a versatilist and a fast learner. Currently, I am into Web Development, bui
 
 <br>
 
-## 📊 **My Stats:**
+## &#128202; **My Stats:**
 
 <br>
 
@@ -112,4 +112,4 @@ I am a versatilist and a fast learner. Currently, I am into Web Development, bui
 
 ## &#10084; **Show Your Support**
 
-### Do Star My Repositories if you like them🌟
+### Do Star My Repositories if you like them &#127775;
