@@ -11,13 +11,13 @@ I am a versatilist and a fast learner. Currently, I am into Web Development buil
 
 ## 🧐 <u>More About Me:</u>
 
-- <img src="./Icons/Netflix.svg" alt="DSA" height="20px" align="left"/>I’m currently working on **netflix-clone**.
-- <img src="./Icons/dsa.svg" alt="DSA" height="20px" align="left"/>I’m currently learning Data Structures and Algorithms.
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Divyam2600?tab=repositories).
-- <img src="./Icons/Instagram.svg" alt="DSA" height="20px" align="left"/>My over-powered build is the [insta-clone](https://github.com/Divyam2600/Instagram-2.0). Do check it out ✨!
-- 💬 &nbsp; I am happy to help you out so don't hesitate to approach me.
-- 📫 &nbsp; Feel free to connect with me on [LinkedIn](https://linkedin.com/in/divyam-agarwal-2600).
-- 📚 &nbsp; During my leisure, I like to read novels.
+- <img src="./Icons/Netflix.svg" alt="DSA" height="20px" align="left"/> I’m currently working on **netflix-clone**.
+- <img src="./Icons/dsa.svg" alt="DSA" height="20px" align="left"/> I’m currently learning Data Structures and Algorithms.
+- 👨🏻‍💻 &nbsp;&nbsp; Most of my projects are available on [Github](https://github.com/Divyam2600?tab=repositories).
+- <img src="./Icons/Instagram.svg" alt="DSA" height="20px" align="left"/> My over-powered build is the [insta-clone](https://github.com/Divyam2600/Instagram-2.0). Do check it out ✨!
+- 💬 &nbsp;&nbsp; I am happy to help you out so don't hesitate to approach me.
+- 📫 &nbsp;&nbsp; Feel free to connect with me on [LinkedIn](https://linkedin.com/in/divyam-agarwal-2600).
+- 📚 &nbsp;&nbsp; During my leisure, I like to read novels.
 
 <br>
 
