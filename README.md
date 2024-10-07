@@ -106,8 +106,6 @@ I am a versatilist and a fast learner. Currently, I am into Web Development, bui
 
 <br>
 
-![Divyam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Divyam2600&hide=contribs,prs&count_private=true&show_icons=true&border_radius=10&include_all_commits=true&count_private=true)
-
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Divyam2600&card_width=495&border_radius=10)
 
 ## &#10084; **Show Your Support**
